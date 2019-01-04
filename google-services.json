@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "716788708198",
+    "firebase_url": "https://realtimedatabasedemo-7f215.firebaseio.com",
+    "project_id": "realtimedatabasedemo-7f215",
+    "storage_bucket": "realtimedatabasedemo-7f215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716788708198:android:66a97709a40ac177",
+        "android_client_info": {
+          "package_name": "com.example.ruchs.realtimedatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716788708198-mn4j2kr8aki2c18l8acq33jndhkfmvc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruchs.realtimedatabasedemo",
+            "certificate_hash": "4a080a2331445254302395a62a4d66f63b2d934b"
+          }
+        },
+        {
+          "client_id": "716788708198-fnd1qbre2ebp3sdgmj5ligc62frskafj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD75qSRPlBSGxHXdGixjQGOOdYhw47gITw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716788708198-fnd1qbre2ebp3sdgmj5ligc62frskafj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
